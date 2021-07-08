@@ -2,5 +2,12 @@
 - Script to download/scrape images from google
 
 ## How to use
-- execute the script as **python google-images.py** and the images get downloaded to a folder in the same directory
+ Direct to folder download:
+ 
+    pip install <module name>
+    py google-images.py
+    
+## Environment:
+Python 3.9
+Chrome 91
 
